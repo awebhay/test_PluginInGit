@@ -1,6 +1,6 @@
 {
   "current": {
-    "enable_wide_layout": true,
+    "enable_wide_layout": false,
     "color_topbar_bg": "#403b37",
     "color_body_bg": "#ffffff",
     "color_footer_bg": "#ffffff",
@@ -260,9 +260,9 @@
     },
     "content_for_index": [
       "slider",
-      "featured-collection",
-      "1592986877201",
       "1592986819409",
+      "1592986877201",
+      "featured-collection",
       "map"
     ]
   },
