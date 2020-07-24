@@ -260,10 +260,10 @@
     },
     "content_for_index": [
       "slider",
-      "featured-collection",
       "1592986819409",
-      "map",
-      "1592986877201"
+      "featured-collection",
+      "1592986877201",
+      "map"
     ]
   },
   "presets": {
